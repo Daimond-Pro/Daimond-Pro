@@ -1,6 +1,6 @@
-Origin: Qiosz xMalr
-Label: Qiosz xMalr
-Suite: stable
+Origin: fahim
+Label: fahim
+Suite: fahim
 Version: 1.0
 Codename: ios
 Architectures: iphoneos-arm
